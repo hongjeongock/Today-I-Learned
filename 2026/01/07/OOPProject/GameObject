@@ -1,0 +1,12 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace _20260107.GameObject
+{
+    public abstract class GameObject
+    {
+        public char Symbol {  get; set; }
+        public Vector Position {  get; set; }
+    }
+}
