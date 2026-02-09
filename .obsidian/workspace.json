@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/02/URP - Universal Unity Pipeline.md",
+                "file": "2026/02/UI 이해와 최적화.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "URP - Universal Unity Pipeline"
+              "title": "UI 이해와 최적화"
             }
           }
         ]
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "LayerMask 의 개요"
             }
+          },
+          {
+            "id": "48f03e3484e20b96",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,14 +191,17 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d5410fe7dd0d4a32",
   "lastOpenFiles": [
+    "2026/02/URP - Universal Unity Pipeline.md",
+    "2026/02/UI 이해와 최적화.md",
     "2025/12/20251223.md",
     "2026/01",
-    "2026/02/무제.md",
     "2025/12",
     "2025",
     "2025/12/20251218.md",
