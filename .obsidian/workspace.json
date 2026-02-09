@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/02/LayerMask.md",
+                "file": "2025/12/프로그래밍 언어 활용 기술.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LayerMask"
+              "title": "프로그래밍 언어 활용 기술"
+            }
+          },
+          {
+            "id": "efb6d5d1e2eaad27",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-02-09 17.10.22.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-09 17.10.22.excalidraw"
             }
           }
         ]
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026/02/LayerMask.md",
+                "file": "2025/12/프로그래밍 언어 활용 기술.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "LayerMask 의 백링크"
+              "title": "프로그래밍 언어 활용 기술 의 백링크"
             }
           },
           {
@@ -156,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026/02/LayerMask.md",
+                "file": "2025/12/프로그래밍 언어 활용 기술.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "LayerMask 의 개요"
+              "title": "프로그래밍 언어 활용 기술 의 개요"
             }
           }
         ]
@@ -188,9 +200,17 @@
   },
   "active": "d5410fe7dd0d4a32",
   "lastOpenFiles": [
+    "Pasted image 20260209173342.png",
+    "Excalidraw/Drawing 2026-02-09 17.10.22.excalidraw.md",
+    "2025/12/프로그래밍 언어 활용 기술.md",
+    "Pasted image 20260209172458.png",
+    "Pasted image 20260209172026.png",
+    "Pasted image 20260209171302.png",
+    "Excalidraw",
+    "2025/12/XR 산업의 이해.md",
+    "2026/02/LayerMask.md",
     "2026/02/UI 이해와 최적화.md",
     "2026/02/URP - Universal Unity Pipeline.md",
-    "2026/02/LayerMask.md",
     "2025/12/20251223.md",
     "2026/01",
     "2025/12",
@@ -199,7 +219,6 @@
     "2025/12/20251216.md",
     "2025/12/20251215.md",
     "2025/12/20251211.md",
-    "2025/12/20251209.md",
     "LayerMask.md"
   ]
 }
