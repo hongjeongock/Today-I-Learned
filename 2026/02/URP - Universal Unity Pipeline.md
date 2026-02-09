@@ -35,7 +35,7 @@
 ## Render PipeLine(RP)란?
 게임이 화면에 그려지는 과정(CPU -> GPU -> 화면)
 
-![alt text](image.png)
+
 
 - GP관점에서  RP를 처리하는 최소 단위
 
