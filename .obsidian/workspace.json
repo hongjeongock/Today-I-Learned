@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/UnityEngine3D응용/URP - Universal Unity Pipeline.md",
+                "file": "Unity/UGUI 기초 및 적용/UI연동 With MVC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "URP - Universal Unity Pipeline"
+              "title": "UI연동 With MVC"
             }
           },
           {
@@ -200,8 +200,8 @@
   },
   "active": "d5410fe7dd0d4a32",
   "lastOpenFiles": [
-    "README.md",
     "Unity/UnityEngine3D응용/URP - Universal Unity Pipeline.md",
+    "README.md",
     "C#/XR 게임 개발자의 이해",
     "Unity/UGUI 기초 및 적용",
     "Unity/UGUI 기초 및 적용/기본 지원 UI.md",
