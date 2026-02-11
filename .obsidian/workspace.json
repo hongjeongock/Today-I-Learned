@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/UGUI 기초 및 적용/UI연동 With MVC.md",
+                "file": "C#/XR 게임 개발자의 이해/프로그래밍 언어 활용 기술.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UI연동 With MVC"
-            }
-          },
-          {
-            "id": "efb6d5d1e2eaad27",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-02-09 17.10.22.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-09 17.10.22.excalidraw"
+              "title": "프로그래밍 언어 활용 기술"
             }
           }
         ]
@@ -200,6 +188,12 @@
   },
   "active": "d5410fe7dd0d4a32",
   "lastOpenFiles": [
+    "C#/XR 게임 개발자의 이해/XR 산업의 이해.md",
+    "Unity/Animation과 FSM/애니메이션 심화.md",
+    "Unity/Animation과 FSM/애니메이션과 FSM.md",
+    "Unity/UGUI 기초 및 적용/UI연동 With MVC.md",
+    "Unity/Animation과 FSM",
+    "Unity/UnityEngine3D응용/무제.md",
     "Unity/UnityEngine3D응용/URP - Universal Unity Pipeline.md",
     "README.md",
     "C#/XR 게임 개발자의 이해",
@@ -208,11 +202,9 @@
     "Unity/UnityEngine3D응용",
     "무제",
     "C#/XR 게임 개발자의 이해/프로그래밍 언어 활용 기술.md",
-    "C#/XR 게임 개발자의 이해/XR 산업의 이해.md",
     "C#/12/20251211.md",
     "C#/12/20251210.md",
     "Excalidraw/Drawing 2026-02-09 17.10.22.excalidraw.md",
-    "Unity/UGUI 기초 및 적용/UI연동 With MVC.md",
     "Pasted image 20260209173342.png",
     "Pasted image 20260209172458.png",
     "Pasted image 20260209172026.png",
