@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/UnityEngine3D응용/Character Controller.md",
+                "file": "Unity/UnityEngine3D응용/애니메이션과 FSM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character Controller"
+              "title": "애니메이션과 FSM"
             }
           }
         ]
@@ -188,8 +188,13 @@
   },
   "active": "d5410fe7dd0d4a32",
   "lastOpenFiles": [
-    "C#/XR 게임 개발자의 이해/플밍 언어 기초, 활용/조건문.md",
+    "Unity/UnityEngine3D응용/애니메이션 심화.md",
+    "Unity/UnityEngine3D응용/LayerMask.md",
     "Unity/UnityEngine3D응용/Character Controller.md",
+    "Unity/UnityEngine3D응용/애니메이션과 FSM.md",
+    "Unity/UnityEngine3D응용/URP - Universal Unity Pipeline.md",
+    "Unity/UnityEngine3D응용/Object Pool Pattern.md",
+    "C#/XR 게임 개발자의 이해/플밍 언어 기초, 활용/조건문.md",
     "C#/XR 게임 개발자의 이해/플밍 언어 기초, 활용/무제.md",
     "C#/XR 게임 개발자의 이해/XR 산업의 이해.md",
     "C#/XR 게임 개발자의 이해/플밍 언어 기초, 활용/Hello World.md",
@@ -198,12 +203,8 @@
     "C#/XR 게임 개발자의 이해/플밍 언어 기초, 활용/변수, 상수.md",
     "C#/12/프로그래밍 언어 활용 기술.md",
     "C#/XR 게임 개발자의 이해/플밍 언어 기초, 활용",
-    "Unity/UnityEngine3D응용/Object Pool Pattern.md",
-    "Unity/UnityEngine3D응용/애니메이션 심화.md",
-    "Unity/UnityEngine3D응용/애니메이션과 FSM.md",
     "Unity/UGUI 기초 및 적용/UI연동 With MVC.md",
     "Unity/Animation과 FSM",
-    "Unity/UnityEngine3D응용/URP - Universal Unity Pipeline.md",
     "README.md",
     "C#/XR 게임 개발자의 이해",
     "Unity/UGUI 기초 및 적용",
@@ -217,7 +218,6 @@
     "Pasted image 20260209172026.png",
     "Pasted image 20260209171302.png",
     "Unity/UGUI 기초 및 적용/UI 이해와 최적화.md",
-    "Unity/UnityEngine3D응용/LayerMask.md",
     "Excalidraw",
     "C#/12/20251223.md",
     "Unity/01",
